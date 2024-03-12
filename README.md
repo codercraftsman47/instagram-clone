@@ -1,4 +1,4 @@
 # instagram-clone
 This is a instagram clone.
 <br>
-Author-Mahatma Doley
+Author-Mahatma (doley)
